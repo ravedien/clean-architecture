@@ -14,5 +14,5 @@
 #### 4. Core
 	- models - business model
 	- usecases - whole business functionality
-![Alt text](https://github.com/ravedien/clean-architecture/blob/master/Architercture%20Diagram.png?raw=true "Optional Title")
+![Alt text](https://github.com/ravedien/clean-architecture/blob/master/CleanArchitecture.png?raw=true)
 

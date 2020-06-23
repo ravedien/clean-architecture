@@ -1,7 +1,14 @@
 ### clean-architecture
-#### 1. Presentation
-	- controllers
-	- dto
+#### 1. Interactor
+	- input: requestModel
+	- output: responseModel
+	- includes
+	  - controllers
+	  - dto
+	- collaborate with
+	  - infrastructure
+	  - adapter
+	  - core usecase
 #### 2. Infrastructure - DB, Framework
 	- jpa
 	  - mapper

@@ -1,5 +1,5 @@
 ### clean-architecture
-#### 1. Interactor
+#### 1. Presentation
 	- input: requestModel
 	- output: responseModel
 	- includes
